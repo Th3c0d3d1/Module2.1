@@ -1,0 +1,23 @@
+.center-me{
+    margin: 0 auto;
+    width: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main-body{
+    background-color: grey;
+}
+.centerheader{
+    text-align: center;
+}
+.pictext{
+    background-color: white;
+    display: flex;
+}
+img{
+    width: 100%;
+}
+.test{
+    width: 100%;
+}
