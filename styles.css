@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .center-me{
     margin: 0 auto;
     width: 400px;
@@ -8,6 +11,7 @@
 .main-body{
     background-color: grey;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 .centerheader{
     text-align: center;
